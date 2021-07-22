@@ -1,6 +1,6 @@
 <h1>Don´t clone or use this repo. This is the solution of the challenge.</h1>
 
-<h2>Do  you want to this challenge done? go to <a href="https://github.com/superstruct-tech/challenge-react-rebase" target="_blank">https://github.com/superstruct-tech/challenge-react-rebase</a> </h2>
+<h2>Do  you want to get this challenge done? go to <a href="https://github.com/superstruct-tech/challenge-react-rebase" target="_blank">https://github.com/superstruct-tech/challenge-react-rebase</a> </h2>
 
 <hr/>
 <blockquote>
