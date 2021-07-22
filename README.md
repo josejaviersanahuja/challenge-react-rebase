@@ -1,4 +1,10 @@
-# Engineering React Rebase Challenge
+<h1>Don´t clone or use this repo. This is the solution of the challenge.</h1>
+
+<h2>Do  you want to this challenge done? go to <a href="https://github.com/superstruct-tech/challenge-react-rebase" target="_blank">https://github.com/superstruct-tech/challenge-react-rebase</a> </h2>
+
+<hr/>
+<blockquote>
+<h1> Engineering React Rebase Challenge </h1>
 
 You will be expected to be able to contribute features and fixes without causing conflicts and other version control headaches. An important tool for keeping codebases clean is `git rebase`. This challenge will test your understanding of a basic codebase and your ability to use `git rebase` properly.
 
@@ -25,3 +31,4 @@ How to attempt this challenge:
 5) Push your solution to the newly set origin
 
 You must follow these steps for your solution to be accepted -- **forks or other methods will not be considered.**
+</blockquote>
